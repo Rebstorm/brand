@@ -1,4 +1,4 @@
-# Doctocat Template
+# Primer Brand Docs
 
 ## Getting Started
 
@@ -12,4 +12,4 @@
 
 3. Run the development server
 
-`npm run develop`
+`npm run start`
